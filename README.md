@@ -20,3 +20,6 @@ Example:
 - Structure created in HTML5
 - Designs created in CSS3
 - Logic created in Vanilla JavaScript and JQuery
+
+
+###### This challenge was taken from TheAppBrewery Course on Web Development by Angela Yu
