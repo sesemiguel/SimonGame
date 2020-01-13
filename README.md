@@ -1,5 +1,6 @@
 # Simon Game
 A simon game created in JavaScript and JQuery
+
 https://sesemiguel.github.io/SimonGame/
 
 ### Mechanics
